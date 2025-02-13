@@ -13,7 +13,7 @@ from langchain_core.documents import Document
 
 os.environ["LANGSMITH_TRACING"] = "true"
 os.environ["LANGSMITH_PROJECT"] = "RagDemo"
-os.environ["LANGSMITH_API_KEY"] = "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"
+os.environ["LANGSMITH_API_KEY"] = "**************"
 
 # ChatDemo
 # Model
