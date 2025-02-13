@@ -19,9 +19,5 @@
           |  `----.|  |  |  |  /  _____  \   |  |     |  |_)  | |  `--'  |     |  |                     
            \______||__|  |__| /__/     \__\  |__|     |______/   \______/      |__|                     
 
+**This is the MEP program chatbot from Group 2. Feel free to use it if you have any questions.**
 
-​    
-
-# NTU-MEP-2025
-
-This is the MEP chatbot repository for the second group of the MEP project.
