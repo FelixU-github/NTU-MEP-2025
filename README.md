@@ -1,6 +1,3 @@
-# NTU-MEP-2025
-This is the MEP chatbot repository for the second group of the MEP project.
-
           ____    __    ____  _______  __        ______   ______   .___  ___.  _______                  
           \   \  /  \  /   / |   ____||  |      /      | /  __  \  |   \/   | |   ____|                 
            \   \/    \/   /  |  |__   |  |     |  ,----'|  |  |  | |  \  /  | |  |__                    
@@ -21,8 +18,10 @@ This is the MEP chatbot repository for the second group of the MEP project.
           |  |     |   __   |   /  /_\  \    |  |     |   _  <  |  |  |  |     |  |                     
           |  `----.|  |  |  |  /  _____  \   |  |     |  |_)  | |  `--'  |     |  |                     
            \______||__|  |__| /__/     \__\  |__|     |______/   \______/      |__|                     
-    
-    
 
 
+​    
 
+# NTU-MEP-2025
+
+This is the MEP chatbot repository for the second group of the MEP project.
